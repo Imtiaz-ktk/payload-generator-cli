@@ -5,6 +5,7 @@ encoding.
 ✅ Step 1: Run Help Command To see all available options:
 
 python tool.py --h
+https://github.com/Imtiaz-ktk/payload-generator-cli/blob/83625336cc867d01bcfdda30801fb650496a1da7/Capture.PNG
 
 🔹 XSS Payloads Command Description
 --xss --reflected        Reflected XSS payloads
