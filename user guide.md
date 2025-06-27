@@ -59,5 +59,6 @@ python tool.py --sqli --union
 python tool.py --b --svg 
 python tool.py --encode
 
+![Image Alt](https://github.com/Imtiaz-ktk/payload-generator-cli/blob/ee16c11a5bf6b40f98cfbfc0d561ea302c3959bb/Capture7.PNG)
 ⚠️ Disclaimer Use this tool only on systems you own or have explicit
 permission to test. Unauthorized use is illegal.
