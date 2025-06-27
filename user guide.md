@@ -30,6 +30,7 @@ python tool.py --h
 🔹 Encode Payloads To encode any input:
 
 python tool.py --encode Then enter one of these options:
+![Image Alt](https://github.com/Imtiaz-ktk/payload-generator-cli/blob/8edf9b92abacaf32ebe338abb18ac5c102f80e14/Capture3.PNG)
 
 --url + payload → URL encode
 
