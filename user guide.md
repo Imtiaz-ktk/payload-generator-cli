@@ -19,7 +19,7 @@ python tool.py --h
 --sqli --time            Time-based SQLi payloads
 
 🔹 Command Injection Payloads 
-▪ Linux and Windows payload variants (e.g., ;ls, && whoami, | net user) 
+  Linux and Windows payload variants (e.g., ;ls, && whoami, | net user) 
   For windows 
   --windows
   For Linux 
