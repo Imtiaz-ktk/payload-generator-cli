@@ -39,7 +39,7 @@ python tool.py --encode Then enter one of these options:
 --hex + payload → Hex encode
 
 --unicode + payload → Unicode encode
-[!Image Alt](https://github.com/Imtiaz-ktk/payload-generator-cli/blob/d6e65a8cdc43de9fdcae1e7f00e7a1d44004a3d9/Capture5.PNG)
+![Image Alt](https://github.com/Imtiaz-ktk/payload-generator-cli/blob/0d89fcc99405c6e6f875da14ee9c90304410f199/Capture4.PNG)
 
 🔹 Bypassing Techniques Command Description --bypassingTechniques Show
 all bypass types 
@@ -50,7 +50,7 @@ all bypass types
 --b --comments              SQLi using comment
 --b --caseVariation         SQLi using mixed-case keywords 
 --b --specialCharacters     SQLi using special characters
-[!Image Alt](https://github.com/Imtiaz-ktk/payload-generator-cli/blob/a55f375864ce6ba3f36b264a006a311e5186abbb/Capture6.PNG)
+
 
 
 📌 Examples 
