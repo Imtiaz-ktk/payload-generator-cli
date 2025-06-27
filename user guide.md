@@ -25,6 +25,8 @@ python tool.py --h
   For Linux 
   --linux
 
+  ![Image Alt](https://github.com/Imtiaz-ktk/payload-generator-cli/blob/8aba8bcc098a6ce449a479c45ee7d26102c443b6/Capture2.PNG)
+
 🔹 Encode Payloads To encode any input:
 
 python tool.py --encode Then enter one of these options:
