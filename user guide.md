@@ -51,7 +51,7 @@ all bypass types
 --b --caseVariation         SQLi using mixed-case keywords 
 --b --specialCharacters     SQLi using special characters
 
-
+![Image Alt](https://github.com/Imtiaz-ktk/payload-generator-cli/blob/cb6968dc1bbb634bbb715d3c1a159ab37f19b9b2/Capture6.PNG)
 
 📌 Examples 
 python tool.py --xss --reflected 
