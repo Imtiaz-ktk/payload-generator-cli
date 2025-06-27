@@ -39,6 +39,7 @@ python tool.py --encode Then enter one of these options:
 --hex + payload → Hex encode
 
 --unicode + payload → Unicode encode
+[!Image Alt](https://github.com/Imtiaz-ktk/payload-generator-cli/blob/d6e65a8cdc43de9fdcae1e7f00e7a1d44004a3d9/Capture5.PNG)
 
 🔹 Bypassing Techniques Command Description --bypassingTechniques Show
 all bypass types 
